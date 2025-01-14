@@ -1,5 +1,4 @@
-while True:
-    a = input("")
-    if a == "linux"
-        while True:
-            print("Hello World!")
+main = input("")
+if main == "linux"
+    while True:
+        print("Hello World!")
